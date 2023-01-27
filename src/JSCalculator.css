@@ -1,0 +1,84 @@
+.title {
+
+      margin-bottom:10px;
+
+       text-align: center;
+
+       width: 210px;
+
+       color:black;
+
+       border: solid 1px black ;
+
+       font-family: 'Franklin Gothic Medium';
+
+       font-size: 15pt;
+
+}
+
+
+
+      body{
+
+            background-color: orangered;
+
+      }
+
+
+
+      input[type="button"] {
+
+            background-color:black;
+
+            color:whitesmoke;
+
+            border:solid black 2px;
+
+            width: 100%;
+
+      }
+            
+
+      input[type="text"] {
+
+            background-color: white;
+
+            border:solid 2px black;
+
+            width: 100%;
+
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
